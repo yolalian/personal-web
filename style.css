@@ -63,6 +63,9 @@ h1.maroon-text-1 + h1.maroon-text-2 {
 }
 
 p.thank-you {
-    color: rgba(217, 80, 103, 0.903);
+    color: rgba(137, 69, 80, 0.523);
+    text-align: center; 
+    font-size: smaller; 
+    margin-top: 2em; 
+    font-weight: normal; 
   }
-  
